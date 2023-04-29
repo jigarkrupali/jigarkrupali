@@ -1,7 +1,6 @@
 import { Box } from "@mui/material";
 import { useState } from "react";
 import { animated, useSpring } from "react-spring";
-import "./App.css";
 import fm from "./assets/FM.jpg";
 import CountdownTimer from "./components/CountdownTimer";
 import LogoAnimation from "./components/LogoAnimation";
