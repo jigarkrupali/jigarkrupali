@@ -79,7 +79,7 @@ const CountdownTimer = () => {
           }}
           item
           xs={2.5}
-          color="white"
+          color="#3C3C3C"
           borderRadius={3}
         >
           <Typography
