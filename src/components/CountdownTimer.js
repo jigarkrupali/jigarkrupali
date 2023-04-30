@@ -68,7 +68,7 @@ const CountdownTimer = () => {
   );
 
   return (
-    <Grid container xs={12} justifyContent="space-around" marginY={2}>
+    <Grid container xs={12} justifyContent="space-around">
       {blocks.map((block) => (
         <Grid
           sx={{

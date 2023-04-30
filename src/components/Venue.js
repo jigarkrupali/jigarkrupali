@@ -11,6 +11,7 @@ export const Venue = () => {
         borderRadius: 4,
         marginX: 2,
         padding: 2,
+        color: "#734967",
       }}
     >
       <Grid item>
@@ -44,7 +45,13 @@ export const Venue = () => {
         </Typography>
       </Grid>
       <Grid item>
-        <Typography variant="h4" textAlign="center" marginTop={2}>
+        <Typography
+          variant="h4"
+          textAlign="center"
+          marginTop={2}
+          fontFamily="Great Vibes"
+          fontWeight="bold"
+        >
           Mendarda
         </Typography>
       </Grid>
